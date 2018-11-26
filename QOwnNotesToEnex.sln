@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QOwnNotesToEnex", "QOwnNotesToEnex\QOwnNotesToEnex.csproj", "{F65774DC-B154-4212-8FB3-D2E90561AC98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QOwnNotesToEnexTest", "QOwnNotesToEnexTest\QOwnNotesToEnexTest.csproj", "{4836B754-BCAC-4693-9CAC-4502CA996C22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F65774DC-B154-4212-8FB3-D2E90561AC98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F65774DC-B154-4212-8FB3-D2E90561AC98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F65774DC-B154-4212-8FB3-D2E90561AC98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F65774DC-B154-4212-8FB3-D2E90561AC98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4836B754-BCAC-4693-9CAC-4502CA996C22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4836B754-BCAC-4693-9CAC-4502CA996C22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4836B754-BCAC-4693-9CAC-4502CA996C22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4836B754-BCAC-4693-9CAC-4502CA996C22}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
